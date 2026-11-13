@@ -4,12 +4,12 @@
   "setup": [],
   "verify": [
     "python3",
-    "checks.py",
-    "normal"
+    "ops_checks.py",
+    "verify"
   ],
   "demo": [
     "python3",
-    "manual.py",
+    "ops_checks.py",
     "demo"
   ]
 }
